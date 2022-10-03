@@ -5755,6 +5755,7 @@ ul.u-text li:last-child {
   margin-right: 0 !important;
   margin-bottom: 0px;
 }
+/*
 .u-backlink {
   position: relative;
   text-align: center;
@@ -5777,6 +5778,7 @@ ul.u-text li:last-child {
 .u-backlink .u-link:hover {
   text-decoration: none;
 }
+*/
 .u-hidden {
   display: none !important;
 }
