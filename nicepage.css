@@ -5755,30 +5755,6 @@ ul.u-text li:last-child {
   margin-right: 0 !important;
   margin-bottom: 0px;
 }
-/*
-.u-backlink {
-  position: relative;
-  text-align: center;
-  padding: 1em;
-}
-.u-backlink a:first-letter {
-  text-transform: capitalize;
-}
-.u-backlink a,
-.u-backlink p {
-  display: inline-block;
-}
-.u-backlink span {
-  font-size: 0.8rem;
-}
-.u-backlink .u-link {
-  text-decoration: underline;
-}
-.u-backlink span,
-.u-backlink .u-link:hover {
-  text-decoration: none;
-}
-*/
 .u-hidden {
   display: none !important;
 }
